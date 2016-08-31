@@ -1,0 +1,10 @@
+INSERT:
+
+      
+      INSERT INTO "表格名" ("欄位1", "欄位2", ...)
+      VALUES ("值1", "值2", ...);
+      
+      EX:
+       INSERT INTO test (empName)
+       VALUES (123);
+       

@@ -1,0 +1,10 @@
+CREATE:
+
+    CREATE TABLE "表格名"
+    ("欄位 1" "欄位 1 資料種類",
+    "欄位 2" "欄位 2 資料種類",
+    ... );
+    
+    
+     EX:
+      create table test(empID char(4),empName varchar(2));
